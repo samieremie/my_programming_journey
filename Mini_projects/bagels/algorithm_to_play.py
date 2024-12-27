@@ -1,0 +1,1 @@
+# An algorithm to play the bagels game. (TO MAKE)
